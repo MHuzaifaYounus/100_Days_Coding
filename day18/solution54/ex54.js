@@ -17,10 +17,9 @@ function changeValue(key, value) {
     return Dollars_value;
 }
 changeValue("PKR", 278.75);
-// Dollars_value["PKR"] = 278.75
-// Dollars_value["IND"] = 83.02
-// Dollars_value["EUR"] = 0.92
-// Dollars_value["JPY"] = 151.44
+changeValue("IND", 83.02);
+changeValue("EUR", 0.92);
+changeValue("JPY", 151.44);
 // Dollar in 2024 
 console.log(`Dollar In 2024:`);
 console.log(Dollars_value);
