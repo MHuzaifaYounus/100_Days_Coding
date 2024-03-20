@@ -1,19 +1,20 @@
+"use strict";
 // Conditional Tests: Write a series of conditional tests. Print a statement describing each test and your prediction for the results of each test. Your code should look something like this:
 // let car = 'subaru';
 // console.log("Is car == 'subaru'? I predict True.")
 // console.log(car == 'subaru')
 // • Look closely at your results, and make sure you understand why each line evaluates to True or False.
 // • Create at least 10 tests. Have at least 5 tests evaluate to True and another 5 tests evaluate to False.
-var PUBG = 'Shooting Game';
-var FreeFire = 'Shooting Game';
-var Minecraft = 'Crafting';
-var Gta = 'Open World';
-var AssasinsCreed = 'Action Game';
-var Mario = '2D Game';
-var Asphalt = 'Racing Game';
-var SubwaySurfers = 'Mobile Game';
-var Tekken3 = 'Fightning Game';
-var Fortnight = 'Battelground Game';
+let PUBG = 'Shooting Game';
+let FreeFire = 'Shooting Game';
+let Minecraft = 'Crafting';
+let Gta = 'Open World';
+let AssasinsCreed = 'Action Game';
+let Mario = '2D Game';
+let Asphalt = 'Racing Game';
+let SubwaySurfers = 'Mobile Game';
+let Tekken3 = 'Fightning Game';
+let Fortnight = 'Battelground Game';
 console.log("Is PUBG = 'Shooting Game'? I predict True.");
 console.log(PUBG == 'Shooting Game');
 console.log("Is Minecraft = 'Crafting'? I predict True.");

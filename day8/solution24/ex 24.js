@@ -1,3 +1,4 @@
+"use strict";
 // More Conditional Tests: You don’t have to limit the number of tests you create to 10. If you want to try more comparisons, write more tests. Have at least one True and one False result for each of the following:
 // • Tests for equality and inequality with strings
 // • Tests using the lower case function
@@ -5,18 +6,18 @@
 // • Tests using "and" and "or" operators
 // • Test whether an item is in a array
 // • Test whether an item is not in a array
-var PUBG = 'Shooting Game';
-var FreeFire = 'Shooting Game';
-var Minecraft = 'Crafting';
-var Gta = 'Open World';
-var AssasinsCreed = 'Action Game';
-var Mario = '2D Game';
-var Asphalt = 'Racing Game';
-var SubwaySurfers = 'Mobile Game';
-var Tekken3 = 'Fightning Game';
-var Fortnight = 'Battelground Game';
-var MinecraftYear = 2011;
-var Gamers = ["Mythpat", "TechnoGamerz", "Weider Insaan", "Dream"];
+let PUBG = 'Shooting Game';
+let FreeFire = 'Shooting Game';
+let Minecraft = 'Crafting';
+let Gta = 'Open World';
+let AssasinsCreed = 'Action Game';
+let Mario = '2D Game';
+let Asphalt = 'Racing Game';
+let SubwaySurfers = 'Mobile Game';
+let Tekken3 = 'Fightning Game';
+let Fortnight = 'Battelground Game';
+let MinecraftYear = 2011;
+let Gamers = ["Mythpat", "TechnoGamerz", "Weider Insaan", "Dream"];
 // More Tests 
 // • Tests for equality and inequality with strings
 console.log("Is Fortnight= 'Battelground Game'? I predict True.");
