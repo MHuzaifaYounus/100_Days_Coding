@@ -12,3 +12,4 @@ function currentDate(){
     return `Current date: ${day}-${month}-${year}`
 }
 console.log(currentDate());
+     
