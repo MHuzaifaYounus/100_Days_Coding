@@ -1,4 +1,3 @@
-<title>100 Days of TypeScript - Days 51 to 60</title>
 
 <h1>100 Days of TypeScript - Days 51 to 60</h1>
 
