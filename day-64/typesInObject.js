@@ -1,5 +1,6 @@
+"use strict";
 // Types in objects with type annotations 
-var details;
+let details;
 details = {
     name: "Huzaifa",
     age: 17,
